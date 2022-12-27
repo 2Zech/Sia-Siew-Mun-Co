@@ -21,7 +21,9 @@ h1 {
 }
 
 #name {
-    font-size: 50px;
+    font-size: 25px;
+    color: #2a4f31;
+    font-display: small-caps;
 }
 
 .profile {
@@ -248,4 +250,16 @@ h1 {
 
 h1 {
     color: black;
+}
+
+.justifyPplWords {
+    width: 40%;
+}
+
+.PplH3Des {
+    font-size: 15px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: justify;
+    text-justify: inter-word;
 }
