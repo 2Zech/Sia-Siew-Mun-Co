@@ -28,7 +28,7 @@ h1 {
 
 .profile {
     width: 98%;
-    height: 660px;
+    height: 850px;
 }
 
 #welcome {
@@ -95,13 +95,106 @@ h1 {
     opacity: 0.7;
     width: 200px;
     height: 55px;
-    margin-top: 0px;
+    margin-top: 50px;
     margin-bottom: 0px;
     font-weight: bold;
     color: white;
     border: 0px;
     font-size: 15px;
 
+}
+
+#menubar5 {
+
+    cursor: pointer;
+    background-color: black;
+    opacity: 0.7;
+    width: 200px;
+    height: 55px;
+    margin-top: px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    color: white;
+    border: 0px;
+    font-size: 15px;
+
+}
+
+#OABTNS1 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS2 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS3 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS4 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS5 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS6 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS7 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS8 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS9 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS10 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
+}
+
+#OABTNS11 {
+    cursor: pointer;
+    color: black(255, 255, 255, 0.664);
+    width: 530px;
+    height: 50px;
 }
 
 .home1 {
@@ -153,9 +246,9 @@ h1 {
 }
 
 
-#titleHome {
+.titleHome {
     text-align: left;
-    color: red;
+    color: #2a4f31;
     font-size: 30px;
 }
 
@@ -275,3 +368,73 @@ h1 {
 .tristonImgTest {
     height: 400px;
 }
+
+.OABody {
+    height: 500px;
+    width: 1500px;
+}
+
+.OABTNSSPACING {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 30px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #2a4f31;
+}
+
+.sectionOA {
+    width: 850;
+    color: blue;
+}
+
+#BAIPopUp {
+    width: 575px;
+    margin-top: 100px;
+}
+
+.OAH3Des {
+    font-size: 15px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 20px;
+    margin-right: 100px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: black;
+}
+
+#CDPopUp {
+    width: 575px;
+    margin-top: 100px;
+}
+
+.title4OA {
+    text-align: left;
+    color: #2a4f31;
+    font-size: 20px;
+}
+
+.OABody {
+    height: 700px;
+}
+
+#tristonFitImg {
+    height: 300px;
+}
+
+#a {
+    width: 600px;
+}
+
+
+
+
+
+
+
+
+
